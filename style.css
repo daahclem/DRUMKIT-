@@ -1,0 +1,151 @@
+body {
+  text-align: center;
+  background-color:black;
+}
+
+h1 {
+  font-size: 120px;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  text-shadow: 2px 2px 5px red;
+}
+
+#c {
+  background-image: url("images/drum.jpg");
+  outline: none;
+  border: 10px solid white;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: red;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  
+}
+
+#l {
+  background-image: url("images/drum3.jpg");
+  outline: none;
+  border: 10px solid white;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: red;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+#e {
+  background-image: url("images/drum2.jpg");
+  outline: none;
+  border: 10px solid white;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: red;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+#m {
+  background-image: url("images/drum3.jpg");
+  outline: none;
+  border: 10px solid white;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: red;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+#a {
+  background-image: url("images/drum4.jpg");
+  outline: none;
+  border: 10px solid white;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: red;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+#n {
+  background-image: url("images/drum2.jpg");
+  outline: none;
+  border: 10px solid white;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: red;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+#t {
+  background-image: url("images/drum.jpg");
+  outline: none;
+  border: 10px solid white;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: red;
+  text-shadow: 3px 0 white;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+#drumkit {
+  margin: 5% auto;
+}
+
+
